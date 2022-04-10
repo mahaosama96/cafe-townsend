@@ -1,0 +1,21 @@
+.container{
+    margin-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+ul{
+    width: 430px;
+    margin-top: 25px;
+    margin-left: 0;
+}
+
+a{
+    border: none;
+    background-color: rgb(245, 243, 239);
+    padding: 12px;
+}
+
+a:hover{
+    background-color: rgb(228, 186, 158);
+}

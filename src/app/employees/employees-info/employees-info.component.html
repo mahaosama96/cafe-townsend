@@ -1,0 +1,16 @@
+<div class="row">
+    <div class="col-xs-12">
+        <p>Name:  {{employee.firstName + ' '+ employee.lastName }}</p>
+        <p>Email: {{employee.email}}</p>
+        <p>Start Date: {{employee.startDate | date: 'dd/MM/yyyy'}}</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+        <button class="btn btn-primary" type="button" style="cursor: pointer;">Edit</button>
+        |
+        <button class="btn btn-danger" type="button" style="cursor: pointer;">Delete</button>
+    </div>
+</div>
+ 

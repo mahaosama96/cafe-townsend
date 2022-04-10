@@ -1,0 +1,21 @@
+.container{
+    /* position: fixed;
+    top: 30vh;
+    right: 30vw;
+    left: 30vw;
+    width: 40%;
+    height: auto;
+    background: burlywood;
+    border: black 3px;} */
+    width:480px;
+    height: 500px;
+    position: fixed;
+    margin-top: -100px;
+    margin-left: -100px;
+    top: 35%;
+    left: 40%;
+    background: rgb(245, 243, 239);
+    border: solid 10px rgb(134, 6, 6);
+    box-shadow: 0 0 15px #888;
+
+}

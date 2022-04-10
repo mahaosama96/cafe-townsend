@@ -1,0 +1,10 @@
+form {
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+label {
+    margin-top: 5px; 
+    font-weight: 300;
+}
